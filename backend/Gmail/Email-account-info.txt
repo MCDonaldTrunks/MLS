@@ -1,0 +1,8 @@
+first name: Norman 
+Last name: Warman
+Gender: Male
+Birth-date: 12/25/00
+Email-adress: warmannorman@gmail.com
+Password: Waterloo_1776
+
+Djago MLS Email app password: "htco dldq gela vwqb" 
